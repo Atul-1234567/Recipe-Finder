@@ -1,4 +1,9 @@
 # 🍽️ Recipe Finder
+## 🌐 Live Demo
+
+👉 **Try it here:** [https://recipe-frontend-kappa.vercel.app](https://recipe-frontend-kappa.vercel.app)
+
+---
 
 A smart and easy-to-use web application that helps you find the perfect recipe based on ingredients, calories, fat, protein, and sodium levels. Built using **Python**, **Flask**, **React**, and **Machine Learning**, this project offers a personalized cooking experience powered by data.
 
