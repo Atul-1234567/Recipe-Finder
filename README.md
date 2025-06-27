@@ -37,5 +37,11 @@ A smart and easy-to-use web application that helps you find the perfect recipe b
 
 ---
 
-## 📂 Folder Structure
+---
+
+## 🚀 Deployment
+
+- **Frontend:** Deployed on [Vercel](https://recipe-frontend-kappa.vercel.app)
+- **Backend:** Deployed on [Render](https://recipe-backend-tcrn.onrender.com)
+
 
